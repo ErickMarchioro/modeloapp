@@ -1,2 +1,4 @@
 .env
 modeloapp/_pycache_/*
+/apps/core/__pycache__/*
+/apps/core/migrations/*
